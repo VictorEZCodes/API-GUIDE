@@ -115,4 +115,9 @@ Each error response includes a JSON object with error details:
 ```
 
 ## Support
-For API support or to report issues, please visit our GitHub repository or contact support.
+For API support or to report issues, please:
+- Email us at contact@airbuckets.cloud
+- Visit our GitHub repository
+- Check our Public API at https://api.airbuckets.cloud/api-docs
+
+We aim to respond to all inquiries within 24 hours during business days.
